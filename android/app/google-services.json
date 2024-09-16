@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "457801079777",
+    "project_id": "ecommerceapp-660c2",
+    "storage_bucket": "ecommerceapp-660c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457801079777:android:6f708825855b11e19810a0",
+        "android_client_info": {
+          "package_name": "com.example.kala_kari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457801079777-niqkst3sn87fat6tggu3sggbvc1dt1t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kala_kari",
+            "certificate_hash": "131491de6d60686b76faac15c6eaaf837d2b5b51"
+          }
+        },
+        {
+          "client_id": "457801079777-nhn3f9p0utcbv4lfjiel4ssj8bn149rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlEuQcZC69qM98zXD_DqKjcDCPZhmRIkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457801079777-nhn3f9p0utcbv4lfjiel4ssj8bn149rr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457801079777-in7vtrj07s1mgc97p7o65if06ui3dlcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kalaKari"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
